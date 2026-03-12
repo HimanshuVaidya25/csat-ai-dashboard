@@ -6,8 +6,5 @@ plotly
 fpdf
 openpyxl
 requests
-<<<<<<< Updated upstream
 joblib
-=======
-joblib
->>>>>>> Stashed changes
+
